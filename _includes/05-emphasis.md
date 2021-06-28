@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*WELCOME*
+**WELCOME**
+
+_GitHub_
+__GitHub__
+
+_Welcome to_ **GitHub**
